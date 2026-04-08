@@ -1,0 +1,3 @@
+Na aula de hoje vamos aprender a integrar as ferramentas de Git e GitHub para poder trabalhar em projetos de forma mais facil e dinamica.
+
+Hoje sera a primeira aula onde conectaremos o repositorio online (que esta no GitHub) com o repositorio  da minha maquina.
